@@ -1,8 +1,12 @@
-# Unichat boilerplace
+# React Chat App | ChatEngine.io | Firebase
 
-This is a modded creat-react-app project. It comes with:
+[![chat.jpg](https://i.postimg.cc/CLst8Mcw/chat.jpg)](https://postimg.cc/PPN2sHG7)
 
-- A manifest with correct packages
-- Useless files taken out
-- Needed folder structure
-- CSS
+## Introduction
+Create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
+
+Build a react chat app using https://chatengine.io
+
+Firebase and Chat Engine are greats tools to setup apps fast and easily ...
+
+
